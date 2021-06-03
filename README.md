@@ -10,6 +10,7 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 <li>Generate range of integers</li>
 <li>Exclusive "or" (xor) Logical Operator</li>
 </ul>
+
 7_kyu
 
 6_kyu
