@@ -10,6 +10,7 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 * [Exclusive "or" (xor) Logical Operator](8_kyu/03_The_xor_Logical_Operator)
 * [Does My List Include This?](8_kyu/04_Does_My_List_Include_This%3F)
 * [Compare within margin](8_kyu/05_Compare_Within_Margin)
+* [Total amount of points](8_kyu/06_Total_Amount_of_Points)
 
 ### 7_kyu
 
