@@ -11,6 +11,8 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 * [Does My List Include This?](8_kyu/04_Does_My_List_Include_This%3F)
 * [Compare within margin](8_kyu/05_Compare_Within_Margin)
 * [Total amount of points](8_kyu/06_Total_Amount_of_Points)
+* [Array_Madness](8_kyu/07_Array_Madness)
+* [Jumping_Dutch_Act](8_kyu/08_Jumping_Dutch_Act)
 
 ### 7_kyu
 
