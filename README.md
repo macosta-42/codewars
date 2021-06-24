@@ -1,6 +1,6 @@
 # Codewars
 
-I want to improve my C coding skill, so let's make a 100days of code on codewars with C language.
+I want to improve my C coding skill, so let's make a 100days of code challenge on codewars with C language.
 
 Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 
@@ -27,6 +27,9 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 * [20_You_Can't_Code_Under_Pressure](8_kyu/20_You_Can't_Code_Under_Pressure)
 * [21_Messi_Goals_Function](8_kyu/21_Messi_Goals_Function)
 * [22_DNA_to_RNA_Conversion](8_kyu/22_DNA_to_RNA_Conversion)
+* [23_Calculate_BMI](8_kyu/23_Calculate_BMI)
+* [24_Keep_Hydrated](8_kyu/24_Keep_Hydrated)
+* [25_Array_Plus_Array](8_kyu/25_Array_Plus_Array)
 
 ### 7_kyu
 
