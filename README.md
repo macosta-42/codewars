@@ -37,6 +37,9 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 * [30_Find_Nearest_Square_Number](8_kyu/30_Find_Nearest_Square_Number)
 * [31_Return_The_Day](8_kyu/31_Return_The_Day)
 * [32_To_Sqrt_Or_Not_To_Sqrt](8_kyu/32_To_Sqrt_Or_Not_To_Sqrt)
+* [33_Plural](8_kyu/33_Plural)
+* [34_Squaring_An_Argument](8_kyu/34_Squaring_An_Argument)
+* [35_I_Love_You](8_kyu/35_I_Love_You)
 
 ### 7_kyu
 
