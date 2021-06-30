@@ -40,6 +40,10 @@ Difficulty of kata (exercises) are 8 Kyu to 1 Kyu
 * [33_Plural](8_kyu/33_Plural)
 * [34_Squaring_An_Argument](8_kyu/34_Squaring_An_Argument)
 * [35_I_Love_You](8_kyu/35_I_Love_You)
+* [36_Bin_to_Decimal](8_kyu/36_Bin_to_Decimal)
+* [37_Supersize_Me](8_kyu/37_Supersize_Me)
+* [38_Volumes_of_Cuboids](8_kyu/38_Volumes_of_Cuboids)
+
 
 ### 7_kyu
 
