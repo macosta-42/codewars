@@ -49,6 +49,9 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [42_Multiplying_Two_Numbers](8_kyu/42_Multiplying_Two_Numbers)
 * [43_What's_The_Real_Floor](8_kyu/43_What's_The_Real_Floor)
 * [44_Switch_it_Up](8_kyu/44_Switch_it_Up)
+* [45_String_to_a_Number](8_kyu/45_String_to_a_Number)
+* [46_Personalized_Message](8_kyu/46_Personalized_Message)
+* [47_Sum_Arrays](8_kyu/47_Sum_Arrays)
 
 
 ### 7_kyu
