@@ -71,6 +71,10 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [64_N-th_Power](8_kyu/64_N-th_Power)
 * [65_Simple_Multiplication](8_kyu/65_Simple_Multiplication)
 * [66_Check_the_Exam](8_kyu/66_Check_the_Exam)
+* [67_Incorrect_Division_Method](8_kyu/67_Incorrect_Division_Method)
+* [68_Take_the_Derivative](8_kyu/68_Take_the_Derivative)
+* [69_Duty_Free](8_kyu/69_Duty_Free)
+* [70_Sentence_Smash](8_kyu/70_Sentence_Smash)
 
 ### 7_kyu
 
