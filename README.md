@@ -77,6 +77,14 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [70_Sentence_Smash](8_kyu/70_Sentence_Smash)
 * [71_My_Head_is_at_the_Wrong_End](8_kyu/71_My_Head_is_at_the_Wrong_End)
 * [72_A_Needle_in_the_Haystack](8_kyu/72_A_Needle_in_the_Haystack)
+* [73_Sum_of_Positive](8_kyu/73_Sum_of_Positive)
+* [74_Cockroach](8_kyu/74_Cockroach)
+* [75_Basic_Mathematical_Operations](8_kyu/75_Basic_Mathematical_Operations)
+* [76_Remove_First_and_Last_Character](8_kyu/76_Remove_First_and_Last_Character)
+* [77_True_for_None](8_kyu/77_True_for_None)
+* [78_Pillars](8_kyu/78_Pillars)
+* [79_True_for_All](8_kyu/79_True_for_All)
+* [80_Vowel_to_Exclamation_Mark](8_kyu/80_Vowel_to_Exclamation_Mark)
 
 ### 7_kyu
 
