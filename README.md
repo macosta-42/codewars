@@ -95,6 +95,16 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [88_Sum_of_Differences](8_kyu/88_Sum_of_Differences)
 * [89_Duplicates_From_List](8_kyu/89_Duplicates_From_List)
 * [90_Fake_Binary](8_kyu/90_Fake_Binary)
+* [91_Find_the_Integral](8_kyu/91_Find_the_Integral)
+* [92_How_Good_Are_You](8_kyu/92_How_Good_Are_You)
+* [93_Get_Nth_Even_Number](8_kyu/93_Get_Nth_Even_Number)
+* [94_Apple_Turnover](8_kyu/94_Apple_Turnover)
+* [95_Calculate_Average](8_kyu/95_Calculate_Average)
+* [96_Do_I_Get_a_Bonus](8_kyu/96_Do_I_Get_a_Bonus)
+* [97_Correct_the_Mistakes](8_kyu/97_Correct_the_Mistakes)
+* [98_Transportation_on_Vacation](8_kyu/98_Transportation_on_Vacation)
+* [99_Lost_Without_a_Map](8_kyu/99_Lost_Without_a_Map)
+* [100_Sum_Without_Highest_and_Lowest](8_kyu/100_Sum_Without_Highest_and_Lowest)
 
 ### 7_kyu
 
