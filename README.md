@@ -105,6 +105,16 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [98_Transportation_on_Vacation](8_kyu/98_Transportation_on_Vacation)
 * [99_Lost_Without_a_Map](8_kyu/99_Lost_Without_a_Map)
 * [100_Sum_Without_Highest_and_Lowest](8_kyu/100_Sum_Without_Highest_and_Lowest)
+* [101_Grade_Book](8_kyu/101_Grade_Book)
+* [102_Divisible_by_x_and_y](8_kyu/102_Divisible_by_x_and_y)
+* [103_Enough_Space](8_kyu/103_Enough_Space)
+* [104_Hello_World](8_kyu/104_Hello_World)
+* [105_Playing_Banjo](8_kyu/105_Playing_Banjo)
+* [106_Return_Negative](8_kyu/106_Return_Negative)
+* [107_Non-Consecutive_Number](8_kyu/107_Non-Consecutive_Number)
+* [108_Number_to_a_String](8_kyu/108_Number_to_a_String)
+* [109_Multiplication_Table](8_kyu/109_Multiplication_Table)
+* [110_Remove_String_Spaces](8_kyu/110_Remove_String_Spaces)
 
 ### 7_kyu
 
@@ -121,4 +131,5 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 ### 1_kyu
 
 ## References
+
 https://www.codewars.com/
