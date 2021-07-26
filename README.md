@@ -125,6 +125,16 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [118_Miles_per_Gallon](8_kyu/118_Miles_per_Gallon)
 * [119_Find_the_Position](8_kyu/119_Find_the_Position)
 * [120_Subtract_the_Sum](8_kyu/120_Subtract_the_Sum)
+* [121_Feast_of_Many_Beasts](8_kyu/121_Feast_of_Many_Beasts)
+* [122_Total_Pressure_Calculation](8_kyu/122_Total_Pressure_Calculation)
+* [123_Third_Angle_of_a_Triangle](8_kyu/123_Third_Angle_of_a_Triangle)
+* [124_All_Star_Code_Challenge_18](8_kyu/124_All_Star_Code_Challenge_18)
+* [125_Just_Count_Sheep](8_kyu/125_Just_Count_Sheep)
+* [126_Count_the_Monkeys](8_kyu/126_Count_the_Monkeys)
+* [127_Seats_in_Theater](8_kyu/127_Seats_in_Theater)
+* [128_Sum_of_Negatives](8_kyu/128_Sum_of_Negatives)
+* [129_Watermelon](8_kyu/129_Watermelon)
+* [130_Terminal_Game_Move_Function](8_kyu/130_Terminal_Game_Move_Function)
 
 ### 7_kyu
 
