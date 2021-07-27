@@ -135,6 +135,20 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [128_Sum_of_Negatives](8_kyu/128_Sum_of_Negatives)
 * [129_Watermelon](8_kyu/129_Watermelon)
 * [130_Terminal_Game_Move_Function](8_kyu/130_Terminal_Game_Move_Function)
+* [131_Reversed_Sequence](8_kyu/131_Reversed_Sequence)
+* [132_Invert_Values](8_kyu/132_Invert_Values)
+* [133_Check_for_Factor](8_kyu/133_Check_for_Factor)
+* [134_Get_Planet_Name_by_ID](8_kyu/134_Get_Planet_Name_by_ID)
+* [135_Century_From_Year](8_kyu/135_Century_From_Year)
+* [136_Gravity_Flip](8_kyu/136_Gravity_Flip)
+* [137_Keep_Up_The_Hoop](8_kyu/137_Keep_Up_The_Hoop)
+* [138_Max_and_Min_Values_of_List](8_kyu/138_Max_and_Min_Values_of_List)
+* [139_MakeUpperCase](8_kyu/139_MakeUpperCase)
+* [140_Clock](8_kyu/140_Clock)
+* [141_Even_or_Odd](8_kyu/141_Even_or_Odd)
+* [142_Square_n_Sum](8_kyu/142_Square_n_Sum)
+* [143_Get_The_Mean_of_an_Array](8_kyu/143_Get_The_Mean_of_an_Array)
+
 
 ### 7_kyu
 
