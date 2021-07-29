@@ -5,6 +5,7 @@ I want to improve my C coding skill, so let's make a 100days of code challenge o
 Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 
 ### 8_kyu
+
 * [01_Is_This_My_Tail](8_kyu/01_Is_This_My_Tail)
 * [02_Generate_Range_of_Integers](8_kyu/02_Generate_Range_of_Integers)
 * [03_The_xor_Logical_Operator](8_kyu/03_The_xor_Logical_Operator)
@@ -151,6 +152,14 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 
 
 ### 7_kyu
+
+* [01_Yoga_Class](7_kyu/01_Yoga_Class)
+* [02_String_to_Int](7_kyu/02_String_to_Int)
+* [03_The_Most_Prioritary](7_kyu/03_The_Most_Prioritary)
+* [04_Boardgame_Fight_Resolve](7_kyu/04_Boardgame_Fight_Resolve)
+* [05_Says_The_Monk](7_kyu/05_Says_The_Monk)
+* [06_Which_Section_Did_You_Scroll](7_kyu/06_Which_Section_Did_You_Scroll)
+* [07_Most_Valuable_Character](7_kyu/07_Most_Valuable_Character)
 
 ### 6_kyu
 
