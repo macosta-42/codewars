@@ -160,6 +160,9 @@ Difficulty of kata (exercises) is increasing from 8 Kyu to 1 Kyu
 * [05_Says_The_Monk](7_kyu/05_Says_The_Monk)
 * [06_Which_Section_Did_You_Scroll](7_kyu/06_Which_Section_Did_You_Scroll)
 * [07_Most_Valuable_Character](7_kyu/07_Most_Valuable_Character)
+* [08_String_Left_Strip](7_kyu/08_String_Left_Strip)
+* [09_The_Speed_of_Letters](7_kyu/09_The_Speed_of_Letters)
+* [10_Right_in_the_Centre](7_kyu/10_Right_in_the_Centre)
 
 ### 6_kyu
 
