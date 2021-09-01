@@ -1,22 +1,22 @@
-# Right in the Center
+# By 3, or not by 3? That is the question . . .
 
 ## Task
 
-Given a sequence of characters, does `"abc"` appear in the CENTER of the sequence?
+A trick I learned in elementary school to determine whether or not a number was divisible by three is to add all of the integers in the number together and to divide the resulting sum by three. If there is no remainder from dividing the sum by three, then the original number is divisible by three as well.
 
-The sequence of characters could contain more than one `"abc"`.
+Given a series of digits as a string, determine if the number represented by the string is divisible by three.
 
-To define CENTER, the number of characters in the sequence to the left and right of the "abc" (which is in the middle) must differ by at most one.
+You can expect all test case arguments to be strings representing values greater than 0.
 
-If it is in the CENTER, return `True`. Otherwise, return `False`.
-
-Write a function as the solution for this problem. This kata looks simple, but it might not be easy.
-
-Example
+Example:
 
 ```
-is_in_middle("AAabcBB")  ->  True
-is_in_middle("AabcBB")   ->  True
-is_in_middle("AabcBBB")  ->  False
+"123"      -> true
+"8409"     -> true
+"100853"   -> false
+"33333333" -> true
+"7"        -> false
 ```
+
+Try to avoid using the % (modulo) operator.
 

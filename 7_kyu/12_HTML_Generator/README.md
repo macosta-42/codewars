@@ -1,22 +1,30 @@
-# By 3, or not by 3? That is the question . . .
+# HTML Generator
 
 ## Task
 
-A trick I learned in elementary school to determine whether or not a number was divisible by three is to add all of the integers in the number together and to divide the resulting sum by three. If there is no remainder from dividing the sum by three, then the original number is divisible by three as well.
+Another rewarding day in the fast-paced world of WebDev. 
+Man, you love your job! But as with any job, sometimes things can get a little tedious. 
+Part of the website you're working on has a very repetitive structure, and writing all the HTML by hand is a bore. 
+Time to automate! 
+You want to write some functions that will generate the HTML for you.
 
-Given a series of digits as a string, determine if the number represented by the string is divisible by three.
+To organize your code, make of all your functions methods of a class called HTMLGen. 
+Tag functions should be named after the tag of the element they create. 
+Each function will take one argument, a string, which is the inner HTML of the element to be created. 
+The functions will return the string for the appropriate HTML element.
 
-You can expect all test case arguments to be strings representing values greater than 0.
+Your HTMLGen class should have methods to create the following elements:
 
-Example:
+* a
+* b
+* p
+* body
+* div
+* span
+* title
+* comment
 
-```
-"123"      -> true
-"8409"     -> true
-"100853"   -> false
-"33333333" -> true
-"7"        -> false
-```
-
-Try to avoid using the % (modulo) operator.
+Note: The comment method should wrap its argument with an HTML comment. 
+It is the only method whose name does not match an HTML tag. 
+So, `g.comment('i am a comment')` must produce `<!--i am a comment-->`.
 
